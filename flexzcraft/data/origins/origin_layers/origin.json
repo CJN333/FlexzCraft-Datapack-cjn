@@ -19,8 +19,9 @@
         "flexzcraft_origins:dragonborn",
         "flexzcraft_origins:warden",
         "flexzcraft_origins:piglin",
-		"flexzcraft_origins:axolotl",
+        "flexzcraft_origins:axolotl",
         "flexzcraft_origins:boarling"
+        "flexzcraft_origins:wolf"
     ],
     "enabled": true
 }
