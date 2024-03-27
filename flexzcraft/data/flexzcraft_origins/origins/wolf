@@ -1,6 +1,6 @@
 {
     "name": "Wolf",
-    "description": "ADD DESCRIPTION",
+    "description": "ADD A DESCRIPTION",
     "powers": [
         "flexzcraft_origins:nether_spawn",
     ],
