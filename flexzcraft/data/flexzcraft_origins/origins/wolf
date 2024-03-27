@@ -1,6 +1,6 @@
 {
     "name": "Wolf",
-    "description": "ADD A DESCRIPTION",
+    "description": "A loyal compagon who shows strength when needed",
     "powers": [
         "flexzcraft_origins:nether_spawn",
     ],
