@@ -2,9 +2,9 @@
     "name": "Wolf",
     "description": "A loyal compagon who shows strength when needed",
     "powers": [
-        "flexzcraft_origins:nether_spawn",
+        "",
     ],
-    "icon": "minecraft:golden_sword",
+    "icon": "minecraft:bone",
     "order": 1,
     "impact": 2
 }
