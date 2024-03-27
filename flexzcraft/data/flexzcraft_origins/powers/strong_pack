@@ -1,13 +1,11 @@
 {
-  "name": "Strong pack"
-  "description": "Gives a boost to all the wolves you tame"
-  "type": "origins_classes:action_on_tame",
+  "name": "You're my friend now"
+  "description": "You can tame any wolf by right-clicking it"
   "bientity_action": {
-    "type": "apoli:target_action",
-    "action": {
-      "type": "apoli:grant_power",
-      "power": "origins-classes:entities/tamed_attributes",
-      "source": "origins-classes:beastmaster"
-    }
+    "type": "origins:tame"
+  },
+  "condition": {
+    "type": "origins:entity_type",
+    "entity_type": "minecraft:wolf"
   }
 }
